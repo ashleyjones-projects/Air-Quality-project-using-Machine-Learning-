@@ -4,4 +4,4 @@ This program looks at the relationship between air quality and mortality rates f
 
 The program first imports the data, cleans it by removing missing values, performs some visualization analysis and then a multiple regression is performed to predict mortality rate values using training and test data.
 
-Made in Python. Fiesl provided are in Py as well as jupyter notebook. Other python packages used are pandas,numpy, scikit-learn, and sm
+Made in Python. Files provided are in Py as well as jupyter notebook formats. Other python packages used are pandas,numpy, scikit-learn, and sm
